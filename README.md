@@ -49,11 +49,13 @@ https://www.linkedin.com/in/efai-de-leon-176481240/
 * Established efficient team communication protocols using Discord with two dedicated channels (front-end and back-end), ensuring seamless collaboration and improving the development process.
 
 ## Education
+
 ___
+
 **09/2016 - 12/2020**
-University of California - Irvine
-Bachelor's of Science in Computer Engineering
-GPA: 3.182
+* University of California - Irvine
+* Bachelor's of Science in Computer Engineering
+* GPA: 3.182
 
 ## Skills
 
