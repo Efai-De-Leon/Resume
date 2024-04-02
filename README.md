@@ -1,7 +1,7 @@
 # Efai De Leon, Computer Engineer
 
-efaideleon@gmail.com
-https://www.linkedin.com/in/efai-de-leon-176481240/
+* efaideleon@gmail.com
+* https://www.linkedin.com/in/efai-de-leon-176481240/
 
 ## Experience
 ---
