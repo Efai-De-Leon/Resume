@@ -1,9 +1,11 @@
 # Efai De Leon, Computer Engineer
 
-* efaideleon@gmail.com
-* https://www.linkedin.com/in/efai-de-leon-176481240/
+* Email: efaideleon@gmail.com
+* LinkedIn: https://www.linkedin.com/in/efai-de-leon-176481240/
+* Personal Website: https://efai-de-leon.github.io/Portfolio-Website/
 
 ## Experience
+
 ---
 
 ### Personal Unity Project | C#
